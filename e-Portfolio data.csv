@@ -1,0 +1,29 @@
+CaseID;Activity;Timestamp;Phase
+memeVZ;Release Planning Meeting;01.01.2020;Inception
+memeVZ;Sprint;15.01.2020;Inception
+memeVZ;Update;30.01.2020;Inception
+memeVZ;Sprint;15.02.2020;Elaboration
+memeVZ;Update;29.02.2020;Elaboration
+memeVZ;Sprint;15.03.2020;Construction
+memeVZ;Update;30.03.2020;Construction
+memeVZ;Sprint;15.04.2020;Construction
+memeVZ;Update;30.04.2020;Construction
+memeVZ;Sprint;15.05.2020;Construction
+memeVZ;Update;30.05.2020;Construction
+memeVZ;Release Product;15.06.2020;Transition
+Betterzon;Release Planning Meeting;01.01.2020;Inception
+Betterzon;Sprint;07.01.2020;Elaboration
+Betterzon;Update;15.01.2020;Elaboration
+Betterzon;Sprint;22.02.2020;Construction
+Betterzon;Update;30.01.2020;Construction
+Betterzon;Sprint;07.02.2020;Construction
+Betterzon;Update;15.02.2020;Construction
+Betterzon;Sprint;22.02.2020;Construction
+Betterzon;Update;29.02.2020;Construction
+Betterzon;Sprint;07.03.2020;Construction
+Betterzon;Update;15.03.2020;Construction
+Betterzon;Sprint;22.03.2020;Construction
+Betterzon;Update;30.03.2020;Construction
+Betterzon;Sprint;07.04.2020;Construction
+Betterzon;Update;15.04.2020;Construction
+Betterzon;Release Product;15.06.2020;Transition
